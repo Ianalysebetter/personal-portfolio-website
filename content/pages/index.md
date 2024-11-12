@@ -97,6 +97,9 @@ sections:
       - type: Label
         label: Power BI
         url: ''
+      - type: Label
+        label: Tableau
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
