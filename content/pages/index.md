@@ -155,7 +155,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/IMG_20241112_203604.jpg
       altText: Harsh
       caption: Caption of the image
       elementId: ''
