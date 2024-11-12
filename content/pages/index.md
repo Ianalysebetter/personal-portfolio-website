@@ -210,8 +210,8 @@ sections:
         justifyContent: flex-end
   - type: HeroSection
     title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Embracing the spirit of "never giving up" (諦めない, Akiramenai) from Naruto,
+      dattebayo!
     subtitle: >-
       Data Science Master’s student at TU Dortmund with expertise in collecting,
       processing, and analyzing large and
