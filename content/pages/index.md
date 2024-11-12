@@ -295,7 +295,7 @@ sections:
       <section id="professional-experience">
           <h2>Professional Experience</h2>
           <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-              <div class="experience" style="width: 45%;">
+              <div class="experience" style="width: 45%; text-align: left;">
                   <h3>Data Project Coordinator</h3>
                   <p><strong>May 2019 – November 2019</strong></p>
                   <p><strong>Uplers Private Limited, Ahmedabad, India</strong></p>
