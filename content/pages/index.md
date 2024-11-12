@@ -91,6 +91,9 @@ sections:
       - type: Label
         label: Image Classification
         url: ''
+      - type: Label
+        label: Neural Networks
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
