@@ -291,13 +291,32 @@ sections:
     variant: variant-a
     title: Professional Experience
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |
+      <section id="professional-experience">
+          <h2>Professional Experience</h2>
+          <div class="experience">
+              <h3>Data Project Coordinator</h3>
+              <p><strong>May 2019 – November 2019</strong></p>
+              <p><strong>Uplers Private Limited, Ahmedabad, India</strong></p>
+              <ul>
+                  <li>Managed and coordinated multiple projects, ensuring timely delivery and seamless execution.</li>
+                  <li>Collaborated with international clients to define project scope and align deliverables, utilizing tools like Jira and Confluence for efficient task management.</li>
+                  <li>Conducted budget analysis for high-value projects using Power BI, enabling cost tracking and proactive risk mitigation.</li>
+                  <li>Acted as the primary communication liaison, maintaining strong stakeholder engagement through tools like Slack and Skype, effectively minimizing project delays.</li>
+              </ul>
+          </div>
+          <div class="experience">
+              <h3>Junior Data Analyst</h3>
+              <p><strong>April 2018 – May 2019</strong></p>
+              <p><strong>Uplers Private Limited, Ahmedabad, India</strong></p>
+              <ul>
+                  <li>Cleaned and prepared datasets using Excel and Python, ensuring data accuracy and consistency for analysis.</li>
+                  <li>Assisted senior analysts in generating detailed reports and visualizations with Power BI, aiding clear communication of data insights to business teams.</li>
+                  <li>Performed routine data entry and extraction tasks using SQL, supporting database maintenance and optimization efforts.</li>
+                  <li>Collaborated on analytics projects, enhancing technical expertise and contributing to successful data processing tasks.</li>
+              </ul>
+          </div>
+      </section>
     elementId: ''
     styles:
       self:
