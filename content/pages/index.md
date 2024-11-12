@@ -156,7 +156,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/about.jpg
-      altText: Hero image
+      altText: Harsh
       caption: Caption of the image
       elementId: ''
     colors: colors-f
