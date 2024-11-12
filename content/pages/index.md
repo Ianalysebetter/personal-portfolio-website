@@ -294,7 +294,7 @@ sections:
     text: |+
       <section id="professional-experience">
           <h2>Professional Experience</h2>
-          <div style="display: flex; justify-content: space-between;">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start;">
               <div class="experience" style="width: 45%;">
                   <h3>Data Project Coordinator</h3>
                   <p><strong>May 2019 – November 2019</strong></p>
@@ -306,11 +306,11 @@ sections:
                       <li>Acted as the primary communication liaison, maintaining strong stakeholder engagement through tools like Slack and Skype, effectively minimizing project delays.</li>
                   </ul>
               </div>
-              <div class="experience" style="width: 45%; text-align: right;">
+              <div class="experience" style="width: 45%; text-align: left;">
                   <h3>Junior Data Analyst</h3>
                   <p><strong>April 2018 – May 2019</strong></p>
                   <p><strong>Uplers Private Limited, Ahmedabad, India</strong></p>
-                  <ul style="list-style-position: inside;">
+                  <ul>
                       <li>Cleaned and prepared datasets using Excel and Python, ensuring data accuracy and consistency for analysis.</li>
                       <li>Assisted senior analysts in generating detailed reports and visualizations with Power BI, aiding clear communication of data insights to business teams.</li>
                       <li>Performed routine data entry and extraction tasks using SQL, supporting database maintenance and optimization efforts.</li>
