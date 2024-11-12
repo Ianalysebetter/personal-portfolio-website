@@ -106,6 +106,9 @@ sections:
       - type: Label
         label: ' Git'
         url: ''
+      - type: Label
+        label: Docker
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
