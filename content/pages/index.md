@@ -225,7 +225,7 @@ sections:
       to impactful projects.
     actions:
       - type: Button
-        label: Hire me
+        label: My CV
         altText: ''
         url: /
         showIcon: true
