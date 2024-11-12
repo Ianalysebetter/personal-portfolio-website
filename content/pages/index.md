@@ -291,8 +291,7 @@ sections:
     variant: variant-a
     title: ''
     subtitle: ''
-    text: |+
-      ```
+    text: |
       <section id="professional-experience">
           <h2>Professional Experience</h2>
           <div class="experience">
@@ -319,8 +318,6 @@ sections:
           </div>
           <p style="text-align: center; margin-top: 20px;">Experience Timeline: April 2018 – November 2019</p>
       </section>
-      ```
-
     elementId: ''
     styles:
       self:
