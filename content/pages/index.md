@@ -289,7 +289,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: Professional Experience
+    title: ''
     subtitle: ''
     text: |
       <section id="professional-experience">
