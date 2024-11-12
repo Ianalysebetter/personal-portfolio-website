@@ -65,7 +65,7 @@ sections:
         label: C#
         url: ''
       - type: Label
-        label: Pancakes
+        label: Data Exploration & Transformation(ETL
         url: ''
       - type: Label
         label: C++
