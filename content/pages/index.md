@@ -109,6 +109,9 @@ sections:
       - type: Label
         label: Docker
         url: ''
+      - type: Label
+        label: CI/CD (GitHub Actions)
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
