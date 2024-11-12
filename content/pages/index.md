@@ -100,6 +100,9 @@ sections:
       - type: Label
         label: Tableau
         url: ''
+      - type: Label
+        label: AWS
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
