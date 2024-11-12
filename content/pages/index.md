@@ -71,9 +71,6 @@ sections:
         label: C++
         url: ''
       - type: Label
-        label: Swift
-        url: ''
-      - type: Label
         label: Machine Learning Model Training
         url: ''
       - type: Label
