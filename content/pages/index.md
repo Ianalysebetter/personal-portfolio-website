@@ -73,6 +73,9 @@ sections:
       - type: Label
         label: Swift
         url: ''
+      - type: Label
+        label: Machine Learning Model Training
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
