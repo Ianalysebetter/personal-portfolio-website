@@ -88,6 +88,9 @@ sections:
       - type: Label
         label: Deep Learning
         url: ''
+      - type: Label
+        label: Image Classification
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
