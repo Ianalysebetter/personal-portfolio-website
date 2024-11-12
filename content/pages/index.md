@@ -79,6 +79,9 @@ sections:
       - type: Label
         label: Hyper-parameter Tuning
         url: ''
+      - type: Label
+        label: Statistical Modelling
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
