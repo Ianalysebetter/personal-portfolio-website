@@ -91,7 +91,7 @@
         "copyrightText": "",
         "styles": {
             "self": {
-                "width": "full",
+                "width": "narrow",
                 "padding": [
                     "pt-16",
                     "pb-16",
