@@ -103,6 +103,9 @@ sections:
       - type: Label
         label: AWS
         url: ''
+      - type: Label
+        label: ' Git'
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
