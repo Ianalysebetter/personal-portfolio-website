@@ -294,29 +294,27 @@ sections:
     text: |
       <section id="professional-experience">
           <h2>Professional Experience</h2>
-          <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-              <div class="experience" style="width: 45%; text-align: left;">
-                  <h3>Data Project Coordinator</h3>
-                  <p><strong>May 2019 – November 2019</strong></p>
-                  <p><strong>Uplers Private Limited, Ahmedabad, India</strong></p>
-                  <ul>
-                      <li>Managed and coordinated multiple projects, ensuring timely delivery and seamless execution.</li>
-                      <li>Collaborated with international clients to define project scope and align deliverables, utilizing tools like Jira and Confluence for efficient task management.</li>
-                      <li>Conducted budget analysis for high-value projects using Power BI, enabling cost tracking and proactive risk mitigation.</li>
-                      <li>Acted as the primary communication liaison, maintaining strong stakeholder engagement through tools like Slack and Skype, effectively minimizing project delays.</li>
-                  </ul>
-              </div>
-              <div class="experience" style="width: 45%; text-align: left;">
-                  <h3>Junior Data Analyst</h3>
-                  <p><strong>April 2018 – May 2019</strong></p>
-                  <p><strong>Uplers Private Limited, Ahmedabad, India</strong></p>
-                  <ul>
-                      <li>Cleaned and prepared datasets using Excel and Python, ensuring data accuracy and consistency for analysis.</li>
-                      <li>Assisted senior analysts in generating detailed reports and visualizations with Power BI, aiding clear communication of data insights to business teams.</li>
-                      <li>Performed routine data entry and extraction tasks using SQL, supporting database maintenance and optimization efforts.</li>
-                      <li>Collaborated on analytics projects, enhancing technical expertise and contributing to successful data processing tasks.</li>
-                  </ul>
-              </div>
+          <div class="experience">
+              <h3>Data Project Coordinator</h3>
+              <p><strong>May 2019 – November 2019</strong></p>
+              <p><strong>Uplers Private Limited, Ahmedabad, India</strong></p>
+              <ul>
+                  <li>Managed and coordinated multiple projects, ensuring timely delivery and seamless execution.</li>
+                  <li>Collaborated with international clients to define project scope and align deliverables, utilizing tools like Jira and Confluence for efficient task management.</li>
+                  <li>Conducted budget analysis for high-value projects using Power BI, enabling cost tracking and proactive risk mitigation.</li>
+                  <li>Acted as the primary communication liaison, maintaining strong stakeholder engagement through tools like Slack and Skype, effectively minimizing project delays.</li>
+              </ul>
+          </div>
+          <div class="experience">
+              <h3>Junior Data Analyst</h3>
+              <p><strong>April 2018 – May 2019</strong></p>
+              <p><strong>Uplers Private Limited, Ahmedabad, India</strong></p>
+              <ul>
+                  <li>Cleaned and prepared datasets using Excel and Python, ensuring data accuracy and consistency for analysis.</li>
+                  <li>Assisted senior analysts in generating detailed reports and visualizations with Power BI, aiding clear communication of data insights to business teams.</li>
+                  <li>Performed routine data entry and extraction tasks using SQL, supporting database maintenance and optimization efforts.</li>
+                  <li>Collaborated on analytics projects, enhancing technical expertise and contributing to successful data processing tasks.</li>
+              </ul>
           </div>
           <p style="text-align: center; margin-top: 20px;">Experience Timeline: April 2018 – November 2019</p>
       </section>
