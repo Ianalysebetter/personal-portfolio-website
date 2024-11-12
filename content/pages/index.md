@@ -85,6 +85,9 @@ sections:
       - type: Label
         label: Sentiment Analysis
         url: ''
+      - type: Label
+        label: Deep Learning
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
