@@ -94,6 +94,9 @@ sections:
       - type: Label
         label: Neural Networks
         url: ''
+      - type: Label
+        label: Power BI
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
