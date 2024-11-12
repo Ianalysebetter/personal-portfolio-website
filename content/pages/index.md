@@ -68,9 +68,6 @@ sections:
         label: Data Exploration & Transformation(ETL)
         url: ''
       - type: Label
-        label: C++
-        url: ''
-      - type: Label
         label: Machine Learning Model Training
         url: ''
       - type: Label
