@@ -82,6 +82,9 @@ sections:
       - type: Label
         label: Statistical Modelling
         url: ''
+      - type: Label
+        label: Hypothesis Testing
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
