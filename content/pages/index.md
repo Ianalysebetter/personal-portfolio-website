@@ -227,7 +227,7 @@ sections:
       - type: Button
         label: My CV
         altText: ''
-        url: /
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
