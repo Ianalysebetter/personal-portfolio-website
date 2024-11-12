@@ -79,6 +79,9 @@ sections:
       - type: Label
         label: Hypothesis Testing
         url: ''
+      - type: Label
+        label: Text Summarization
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
