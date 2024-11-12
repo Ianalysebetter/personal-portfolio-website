@@ -76,6 +76,9 @@ sections:
       - type: Label
         label: Machine Learning Model Training
         url: ''
+      - type: Label
+        label: Hyper-parameter Tuning
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
