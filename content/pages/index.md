@@ -82,6 +82,9 @@ sections:
       - type: Label
         label: Text Summarization
         url: ''
+      - type: Label
+        label: Sentiment Analysis
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
