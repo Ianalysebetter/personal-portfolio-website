@@ -56,7 +56,7 @@ sections:
         label: R
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: SQL
         url: ''
       - type: Label
         label: Next.js
