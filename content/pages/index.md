@@ -59,7 +59,7 @@ sections:
         label: SQL
         url: ''
       - type: Label
-        label: Next.js
+        label: Java
         url: ''
       - type: Label
         label: Netlify
