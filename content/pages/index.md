@@ -289,7 +289,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: Experience
+    title: Professional Experience
     subtitle: ''
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
